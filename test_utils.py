@@ -31,3 +31,4 @@ def test_nearest_neighbor():
     expected_index = 3
     
     assert result == expected_index, f"Expected index {expected_index}, but got {result}"
+
